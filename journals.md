@@ -47,7 +47,6 @@
   + [Questions](journal/08/questions.md)
   + [Reading Topics](journal/08/readings.md)
   + [Reflection](journal/08/reflection.md)
-  testing
 
 * **Deploying Applications**
   + [Assignments](journal/09/assignment-links.md)
