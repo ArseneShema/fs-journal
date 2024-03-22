@@ -1,18 +1,18 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | Testing |
+    > Git is a content tracker
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > It is used to create a new folder
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > keyword that is added to a selector to style elements based on their state or position in the document structure. I think i will use Hover and active 
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity in CSS refers to the set of rules that determines which styles should be applied to an element when multiple conflicting styles are defined. 
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > Troubleshooting and debugging styling issues becomes more difficult when `!important` is frequently used.
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -21,20 +21,20 @@
             color: rgba(255, 210, 33, .75);
         }
     ```
-
-    > | ANSWER HERE |
+   
+    > Selector, property and value
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > a design that is appealing will influence people just from the position to the colors on the website.
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > Wire frames are effectively used as communication devices.
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
     > | ANSWER HERE |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > flex property is used to create a flex container.
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > several CSS properties can affect the size of the box model. width, height, padding and margin
