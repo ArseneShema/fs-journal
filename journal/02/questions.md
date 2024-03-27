@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    Var, let and const
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    A subprogram designed to perform a particular task
 
 03. What are the `SOLID` principles?
 
@@ -17,7 +17,8 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    let pineapple=fruit.pop();
+    
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,7 +35,8 @@
     }
     ```
 
-    > | ANSWER HERE |
+    let friends=you.concat(them);
+    console.log(friend)
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -46,7 +48,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+   you can use the Sources tab or chrome developer tools
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
@@ -54,4 +56,4 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+   
