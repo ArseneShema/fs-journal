@@ -44,11 +44,17 @@ D - Dependency Inversion classes should depend on abstraction but not on concret
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    let heater=72
+
+    if(heater>75){
+        console.log("turn off heater");
+    }else if (heater>=65 && heater<=75){
+        console.log("turn on heater")""
+    }
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    main  difference is usage and the context in which they are used  in. one is a placeholder and the other is the actcal values 
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
@@ -56,7 +62,7 @@ D - Dependency Inversion classes should depend on abstraction but not on concret
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    primitive values are data type. numbers, string and reference are objects, arrays and function
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
