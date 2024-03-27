@@ -9,7 +9,11 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+   S - Single Responsibility a class should be having one and only one responsibility
+O - Open / Closed classes should be open for extension but closed for modification
+L - Liskov Substitution parent classes should be easily substituted with their child classes without blowing up the application
+I - Interface Segregation many client specific interfaces are better than one general interface
+D - Dependency Inversion classes should depend on abstraction but not on concretion
 
 04. Given this array: How could you remove the `pineapple`?
 
